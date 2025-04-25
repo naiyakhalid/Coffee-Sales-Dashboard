@@ -48,7 +48,7 @@ __8. Sales by Size__
 - Used INDEX and MATCH functions to batch-fill product-related columns such as Coffee Type, Roast Type, Size, and Unit Price in the orders table from the Products sheet.
 - Created two new columns — Coffee Type Name and Roast Type Name — to expand abbreviations into full names for better clarity and to avoid confusion.
 - Added a Loyalty Card column in the orders table and used XLOOKUP to retrieve loyalty status from the Customers table.
-- Applied formatting:
+- __Applied formatting:__
   Added dollar signs to price-related columns for clear monetary representation.
   Added "kg" unit to the Size column to represent packaging weight clearly.
 - Created multiple Pivot Tables to answer specific analytical questions.
