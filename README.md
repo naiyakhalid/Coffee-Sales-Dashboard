@@ -41,7 +41,19 @@ __7. Loyalty Program Impact__
 __8. Sales by Size__
 - Breaks down performance by packaging size (e.g., 0.2 kg, 0.5 kg, 1.0 kg, 2.5 kg)
 
-# Process:
+# Process of Creating the Coffee Sales Dashboard:
+- Verify data for any missing values and anomalies, and sort out the same.
+-  Made sure data is consistent and clean with respect to data type, data format and values used.
+- Used XLOOKUP to populate customer details (e.g., Customer Name, Email) in the orders table by referencing the Customers sheet.
+- Used INDEX and MATCH functions to batch-fill product-related columns such as Coffee Type, Roast Type, Size, and Unit Price in the orders table from the Products sheet.
+- Created two new columns — Coffee Type Name and Roast Type Name — to expand abbreviations into full names for better clarity and to avoid confusion.
+- Added a Loyalty Card column in the orders table and used XLOOKUP to retrieve loyalty status from the Customers table.
+- Applied formatting:
+  Added dollar signs to price-related columns for clear monetary representation.
+  Added "kg" unit to the Size column to represent packaging weight clearly.
+- Created multiple Pivot Tables to answer specific analytical questions.
+- Combined all pivot tables into a single interactive dashboard using slicers for fields like Roast Type, Loyalty Card, and Size to enable dynamic filtering.
+- Added a timeline slicer to visualize and filter monthly sales data from 2019 to 2022.
 
 
 
