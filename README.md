@@ -55,6 +55,11 @@ __8. Sales by Size__
 - Combined all pivot tables into a single interactive dashboard using slicers for fields like Roast Type, Loyalty Card, and Size to enable dynamic filtering.
 - Added a timeline slicer to visualize and filter monthly sales data from 2019 to 2022.
 
+# Dashboard
+- <a href= "Coffee-Sales-Dashboard.png">Coffee sales Dashboard</a>
+<img width="1139" alt="Coffee-Sales-Dashboard" src="https://github.com/user-attachments/assets/14971689-21f3-464a-98b8-f4f3125a38b3" />
+
+
 __📊 Insights from the Coffee Sales Dashboard__
 - The United States is the top-performing country, contributing over $35,000 in sales, significantly higher than Ireland and the UK.
 - Excelsa and Arabica consistently perform strongly among coffee types, with noticeable spikes in specific months.
