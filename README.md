@@ -1,2 +1,4 @@
 # Coffee-Sales-Dashboard
-This Coffee Sales Dashboard provides a comprehensive overview of sales performance across time, countries, and customer segments. It visualizes trends by coffee type, highlights top-performing countries and customers, and offers filters by roast type, loyalty card status, and product size for deeper analysis.
+This project provides a comprehensive overview of sales performance across time, countries, and customer segments. It visualizes trends by coffee type, highlights top-performing countries and customers, and offers filters by roast type, loyalty card status, and product size for deeper analysis.
+
+
